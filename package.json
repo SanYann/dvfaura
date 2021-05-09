@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "jsonexport": "^2.4.1",
     "line-reader": "^0.4.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "n-readlines": "^1.0.0",
     "pg": "^7.11.0"
   }
